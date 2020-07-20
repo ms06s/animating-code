@@ -10,7 +10,7 @@ body {
   color: green;
 }
 .taiji {
-  width: 200px;
+  width: 200px; 
   height: 200px;
   border-radius: 50%;
   box-shadow: 0 0 3px rgba(0,0,0,0.5);
